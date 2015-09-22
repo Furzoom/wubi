@@ -1,21 +1,9 @@
 # 五笔输入法
 
-## 文件清单
-InstallWubi.bat                        --- 安装脚本
-
-TableTextServiceSimplifiedZhengMa.txt  --- 码表文件
-
-ReadMe.txt                             --- 说明文本
-
-FAQ.txt                                --- 常见问题
-
-## 下载地址
-https://github.com/Furzoom/wubi/archive/master.zip
-
 ## 安装
-1 把上述文件下载到同一目录下,一般下载解压后已经是在同一目录下了，那么可略过这一步。
-2 鼠标右击InstallWubi.bat。
-3 选择“以管理员身份运行”。当弹出对话框询问时，点击“是”。
+1. 把上述文件下载到同一目录下,一般下载解压后已经是在同一目录下了，那么可略过这一步。
+2. 鼠标右击InstallWubi.bat。
+3. 选择“以管理员身份运行”。当弹出对话框询问时，点击“是”。
 
 ## 添加输入法
 在输入法设置里面添加输入法，选择“简体中文郑码”，这就是刚才安装的输入法。
