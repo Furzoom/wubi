@@ -2,8 +2,11 @@
 
 ## 文件清单
 InstallWubi.bat                        --- 安装脚本
+
 TableTextServiceSimplifiedZhengMa.txt  --- 码表文件
+
 ReadMe.txt                             --- 说明文本
+
 FAQ.txt                                --- 常见问题
 
 ## 下载地址
