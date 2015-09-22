@@ -2,7 +2,7 @@
 
 ## 安装
 
-1. 把上述文件[下载](https://github.com/Furzoom/wubi/archive/v1.1.zip)到同一目录下,一般下载解压后已经是在同一目录下了，那么可略过这一步。
+1. 把上述文件[下载](https://github.com/Furzoom/wubi/archive/v1.0.zip)到同一目录下,一般下载解压后已经是在同一目录下了，那么可略过这一步。
 2. 鼠标右击InstallWubi.bat。
 3. 选择“以管理员身份运行”。当弹出对话框询问时，点击“是”。
 
